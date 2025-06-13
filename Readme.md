@@ -5,6 +5,11 @@ This project presents a **production-ready, serverless architecture** for managi
 The system is **fully serverless**, cost-effective, highly scalable, and secured with WAF, IAM, and CloudWatch monitoring.
 
 ---
+## 🖼️ Architecture Diagram
+
+![Architecture Diagram](diagram.png)
+
+---
 
 ## 🧱 Architecture Components
 
@@ -128,8 +133,4 @@ The system is **fully serverless**, cost-effective, highly scalable, and secured
 - Route 53
 - CloudWatch
 
----
 
-## 🖼️ Architecture Diagram
-
-![Architecture Diagram](diagram.png)
